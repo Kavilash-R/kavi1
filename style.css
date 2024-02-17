@@ -7,3 +7,32 @@ body{
     background-color: #373e3f;
     color:rgb(255, 255, 255);
 }
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: rgb(228, 153, 77);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: whitesmoke;
+}
+nav{
+    background-color: rgb(204, 225, 224);
+    color: black;
+    height: 90px;
+    display: flex;
+    justify-content: flex-end;
+    justify-content: fixed;
+}
+h2{
+    padding-top: 35px;
+    padding-right: 15px;
+    cursor: pointer;
+}
+div{
+    text-align: center;
+}
+.one{
+    margin-top: 20px;
+}
+
