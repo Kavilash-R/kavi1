@@ -1,6 +1,6 @@
 
 function xyz(){
-  console.log("xyz");
+  console.log("xyz1");
 }
 xyz();
 function nu(){
