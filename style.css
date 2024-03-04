@@ -2,11 +2,7 @@ html{
     font-size: 20px;
     
 }
-body{
-    
-    background-color: #373e4f;
-    color:rgb(255, 255, 250);
-}
+
 *{
     padding: 0px;
     margin: 0px;
